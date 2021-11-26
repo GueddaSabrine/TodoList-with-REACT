@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="todo-app">
       {/* <h1>TODO</h1> */}
-      {/* <Clock/> */}
       <TodoList/>
     </div>
   );
